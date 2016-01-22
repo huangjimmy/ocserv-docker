@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Wyatt Pan <wppurking@gmail.com>
+MAINTAINER jimmy huang <jimmy_huang@live.com>
 
 ADD ./certs /opt/certs
 ADD ./bin /usr/local/bin
